@@ -14,6 +14,3 @@ The group project was conducted across 18-22 October 2021. I converted my slides
 ## Disclaimer
 
 This repository is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to do whatever you want with it as long as I am given credit. Since this was a group project, I am only able to share my individual work on the presentation and not the complete product. All 3rd-party information has been referenced and the links have been checked as of 15 January 2022.
-
-
-
